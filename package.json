@@ -1,5 +1,5 @@
 {
-  "name": "agrimate",
+  "name": "tanimine",
   "version": "1.0.0",
   "description": "REST API using ExpressJS",
   "main": "index.js",
