@@ -7,9 +7,9 @@
 TaniMine is a multiplatform app to help farmers in every stage of their farming activities. The Agricultural ProcessWith features built based on their problems from is divided into three stages.pre-farming to post-farming.
 
 ## Team
-Adinda Regita Afifah Cahyani - Hustler
-Reymunda Dwi Alfathur - Hipster
-Fajar Buana Hidayat - Hacker 
+Adinda Regita Afifah Cahyani - Hustler <br>
+Reymunda Dwi Alfathur - Hipster <br>
+Fajar Buana Hidayat - Hacker <br>
 Dinar Nur Aziz  - Hacker
 
 ## How to Install and Run the Project
