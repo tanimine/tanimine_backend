@@ -4,8 +4,13 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/) [![Nodejs](https://img.shields.io/badge/NodeJs-18-green.svg)](https://NodeJs.com/) [![Typescript](https://img.shields.io/badge/Typescript-lastest-green.svg)](https://www.typescriptlang.org/) [![Postgresql](https://img.shields.io/badge/Postgresql-lastest-green.svg)](https://www.postgresql.org/) 
 
 ## About
+TaniMine is a multiplatform app to help farmers in every stage of their farming activities. The Agricultural ProcessWith features built based on their problems from is divided into three stages.pre-farming to post-farming.
 
-Nodejs REST API Starter built using Express
+## Team
+Adinda Regita Afifah Cahyani - Hustler
+Reymunda Dwi Alfathur - Hipster
+Fajar Buana Hidayat - Hacker 
+Dinar Nur Aziz  - Hacker
 
 ## How to Install and Run the Project
 To install and run the TaniMine project locally, please follow these steps:
